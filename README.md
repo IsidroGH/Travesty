@@ -5,7 +5,7 @@ Java implementation of the Travesty algorithm using a probability tree structuct
 
 Travesty is a method for generating scrambled text using Markov chains.
 
-This is a free interpretation of the Travesty algorithm by Hugh Kenner and Joseph O'Rourke discussed in BYTE November 1984 (http://www.scribd.com/doc/99613420/Travesty-in-Byte) based on the paper "Richard A. O’Keefe - An introduction to Hidden Markov Models".
+This is a free interpretation of the Travesty algorithm by Hugh Kenner and Joseph O'Rourke discussed in BYTE November 1984 (www.scribd.com/doc/99613420/Travesty-in-Byte) based on the paper "Richard A. O’Keefe - An introduction to Hidden Markov Models".
 
 As this paper (www.cs.otago.ac.nz/cosc348/hmm/hmm.pdf) says:
 
