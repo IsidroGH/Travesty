@@ -1,7 +1,7 @@
 Travesty
 ========
 
-Java implementation of the Travesty algorithm using probability tree structuctures.
+Java implementation of the Travesty algorithm using a probability tree structucture.
 
 Travesty is a method for generating scrambled text using Markov chains.
 
