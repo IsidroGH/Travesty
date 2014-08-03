@@ -36,8 +36,11 @@ Usage
 Travesty file k out-length
 
 where:
+
   file is the file to scramble
+
   k is the number of symbols of the left context
+
   out-length is the number of cahracters to generate
 
 
