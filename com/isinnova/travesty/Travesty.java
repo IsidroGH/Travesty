@@ -123,15 +123,9 @@ public class Travesty {
 	}
 
 	public static void main(String[] args) throws Exception  {
-		/*
 		String file = args[0];
 		int k = Integer.parseInt(args[1]);
 		int max = Integer.parseInt(args[1]);
-		*/
-		
-		String file="c:/borra/texto.txt";
-		int k=3;
-		int max=1000;
 
 		String text = new Travesty().scramble(file, k, max);
 		System.out.println(text);
